@@ -49,4 +49,4 @@ It's an individual assignment for now.
 
 ## Tests
 
-It's a static site at the moment and apart from getting response through git push and pull no other tests being done. It displays the summary on a browser console.
+Tests are done through user input and selection criteria. It's working as required.
