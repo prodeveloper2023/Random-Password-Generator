@@ -23,13 +23,13 @@ This application named "Random-Password-Generator" can be used to generate a ran
 ## Usage
 
 Here is one screenshot showing Journey of generating a random password:
-![Initial Page where password generator is clicked]()
-![Selecting number of characters]()
-![Include lower characters or not]()
-![Iclude Upper characters or not]()
-![Include Numeric characters or not]()
-![Include Special characters or not]()
-![Password is generated]()
+![Initial Page where password generator is clicked](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.45.42%20pm.png)
+![Selecting number of characters](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.46.09%20pm.png)
+![Include lower characters or not](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.46.25%20pm.png)
+![Iclude Upper characters or not](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.47.08%20pm.png)
+![Include Numeric characters or not](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.47.39%20pm.png)
+![Include Special characters or not](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.48.06%20pm.png)
+![Password is generated](https://github.com/prodeveloper2023/Random-Password-Generator/blob/main/images/Screenshot%202023-12-19%20at%204.48.40%20pm.png)
 
 ## Credits
 
